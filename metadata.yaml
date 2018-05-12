@@ -1,0 +1,29 @@
+_repo: -_36459
+_version: 0.1.0
+alternative_title: Atsumono
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tanizaki, Jun'ichiro
+    alias: 谷崎潤一郎
+    birthdate: 1886
+    deathdate: 1965
+    gutenberg_agent_id: '35363'
+    url: http://www.gutenberg.org/2009/agents/35363
+    wikipedia: http://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki
+description: ''
+gutenberg_issued: '2011-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36459'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Fiction'
+title: 羹
+url: http://www.gutenberg.org/ebooks/36459
