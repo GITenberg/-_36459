@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35363
     wikipedia: http://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36459#-
 gutenberg_issued: '2011-06-18'
 gutenberg_type: Text
 identifiers:
